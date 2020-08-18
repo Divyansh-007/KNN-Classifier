@@ -1,4 +1,4 @@
-# KNN Classifier
+# KNN Classification
 In this project the dataset provided has hidden feature column names but the data and the target classes are specified.
 So by using KNN we will try to directly predict the class for the new data point based on the features.
 
